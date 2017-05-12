@@ -2,8 +2,12 @@
 # This file contains configuration flags to customize your site
 #
 
+# stuff taken form barryclark
 # Name of your site (displayed in the header)
 name: Anirudh Pathak
+
+#title here
+title: Anirudh Pathak
 
 # Short bio or description (displayed in the header)
 description: Hooman
