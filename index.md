@@ -1,7 +1,9 @@
 ## About me
 
 I am Anirudh Pathak. 
-I am currently a Masters student studying Computer Science at University of Florida at Gainesville,![images/me](https://raw.githubusercontent.com/justanirudh/justanirudh.github.io/master/images/me.jpg) 
+I am currently a Masters student studying Computer Science at University of Florida at Gainesville,
+
+![me](https://raw.githubusercontent.com/justanirudh/justanirudh.github.io/master/images/me.jpg) 
 
 expected to graduate in Fall 2017. 
 
