@@ -2,10 +2,9 @@
 
 I am Anirudh Pathak. 
 I am currently a Masters student studying Computer Science at University of Florida at Gainesville,
+expected to graduate in Fall 2017.
 
 ![me](https://raw.githubusercontent.com/justanirudh/justanirudh.github.io/master/images/me.jpg) 
-
-expected to graduate in Fall 2017. 
 
 Previously, I was a Securities Division Strategist at Goldman Sachs. 
 
