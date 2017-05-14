@@ -1,7 +1,9 @@
 ## About me
 
 I am Anirudh Pathak. 
-I am currently a Masters student studying Computer Science at University of Florida at Gainesville, expected to graduate in Fall 2017. 
+I am currently a Masters student studying Computer Science at University of Florida at Gainesville,![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) 
+
+expected to graduate in Fall 2017. 
 
 Previously, I was a Securities Division Strategist at Goldman Sachs. 
 
