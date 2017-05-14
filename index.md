@@ -1,6 +1,9 @@
 ## About me
 
-I am Anirudh Pathak. I am currently a Masters student studying Computer Science at University of Florida at Gainesville, expected to graduate this Fall. Previously, I was a Securities Division Strategist at Goldman Sachs. I graduated from BITS Pilani in 2013 with a Bachelors in Computer Science.
+I am Anirudh Pathak. 
+I am currently a Masters student studying Computer Science at University of Florida at Gainesville, expected to graduate in Fall 2017. 
+Previously, I was a Securities Division Strategist at Goldman Sachs. 
+I graduated from BITS Pilani in 2013 with a Bachelors in Computer Science.
 
 <!---
 ## Welcome to GitHub Pages
