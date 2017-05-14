@@ -1,3 +1,8 @@
+##About me
+
+I am Anirudh Pathak. I am currently a Masters student studying Computer Science at University of Florida at Gainesville, expected to graduate this Fall. Previously, I was a Securities Division Strategist at Goldman Sachs. I graduated from BITS Pilani in 2013 with a Bachelors in Computer Science.
+
+<!---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/justanirudh/justanirudh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +40,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->
